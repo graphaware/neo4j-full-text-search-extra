@@ -1,4 +1,6 @@
-## Neo4j Full Text Search Custom Analyzers
+# Neo4j Full Text Search Extra
+
+## Custom Analyzers
 
 ### Standard No Stopwords
 
