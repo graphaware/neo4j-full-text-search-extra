@@ -1,0 +1,3 @@
+GB,gigabyte,gigabytes
+FTS,full text search,fulltext search,fulltextsearch
+cypher query language,cql
